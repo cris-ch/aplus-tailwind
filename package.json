@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cris-ch/aplus-tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cris-ch/aplus-tailwind/issues"
+  },
+  "homepage": "https://github.com/cris-ch/aplus-tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
